@@ -29,22 +29,13 @@
 }
 
 .introducao h1{
-    font-family: 'Poppins';
-    font-weight: 600;
-    font-size: 64px;
-    line-height: 1.12;
     margin-bottom: 32px;
 }
 .introducao h1 span{
     color: #FFBB00;
 }
 .introducao p {
-    font-family: 'Roboto';
-    font-weight: 400;
     margin-bottom: 20px;
-    font-size: 24px;
-    line-height: 1.5;
-    color: #b2b2b2;
 }
 
 @media (max-width: 1200px) {
