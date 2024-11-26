@@ -3,11 +3,14 @@
 @import "./utility/colors.css";
 
 @import "./global/header.css";
+@import "./global/footer.css";
 
 @import "./utility/component.css";
 
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 @import "./bicicletas/bicicleta-list.css";
+@import "./seguros/seguros.css";
