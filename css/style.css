@@ -6,6 +6,7 @@
 @import "./global/footer.css";
 
 @import "./utility/component.css";
+@import "./utility/formulario.css";
 
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
@@ -21,5 +22,9 @@
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
 
 @import "./termos/termos.css";
